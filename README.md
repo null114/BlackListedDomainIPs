@@ -1,1 +1,1 @@
-# BlackListedDomainIPs
+# BlackListedDomainIPs TorExitNodes 
